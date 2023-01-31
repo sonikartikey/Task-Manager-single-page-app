@@ -1,3 +1,6 @@
+*{
+  margin: 0px,
+}
 .App {
   text-align: center;
 }
@@ -35,4 +38,20 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+#helo{
+  color:red
+}
+
+#inputVal{
+  margin-left: 50%;
+  justify-content: center;
+}
+#mainContent{
+  font-size: 50px;
+  color: lightcoral;
+  text-align:center;
+  font-family: monospace; 
+  margin: 25px;
 }
